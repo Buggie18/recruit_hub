@@ -1,4 +1,4 @@
-# Recruite Hub
+# Recruit Hub
 The Recruitment Management System (RMS) is a desktop application designed to simplify the recruitment process. Built using Tkinter for the front-end, PHP for the back-end logic, and MySQL for database management, the system supports two types of users: Recruiters and Job Seekers. Recruiters can manage job postings, track applicants, and schedule interviews, while Job Seekers can apply for jobs and track the status of their applications.
 ## Technologies Used
 •	Frontend: Tkinter (Python)<br />
